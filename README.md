@@ -4,4 +4,4 @@ Veri Yapilari Algoritmalar
 
 Veri Yapıları ve Algoritmalar Dersi Projesi | www.patika.dev
 
-Insertion Sort: 
+Insertion Sort: https://github.com/kubilaybulduk/Patika/blob/main/InsertionSort
