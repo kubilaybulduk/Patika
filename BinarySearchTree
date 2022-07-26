@@ -1,0 +1,30 @@
+www.patika.dev
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+Binary Search Tree aşamaları
+
+root=7
+
+5 rootun solundadır.
+1 rootun ve 5'in solundadır.
+8 rootun sağındadır.
+3 rootun 5'in solundadır. 1'in sağındadır.
+6 rootun solunda 5'in sağındadır.
+0 rootun 5'in 1'in solundadır.
+9 rootun ve 8'in sağındadır.
+4 rootun 5'in solunda 1'in sağında 3 ünde sağındadır.
+2 rootun 5'in solunda 1'in sağında 3'ün solundadır.
+
+
+                                        7
+																     /    \
+																 5          8   
+															 /		\    /    \
+														1          6        9
+													 /	 																	
+  											 0		  3
+														   /  \
+													   2      4
+                               
+                              
